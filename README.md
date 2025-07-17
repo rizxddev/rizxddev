@@ -24,7 +24,7 @@
   <a href="https://instagram.com/naze_dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/message/NWL4BNB6JPN3H1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://t.me/rizxddev"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtube.com/c/rizxddev"><img src="https://img.shields.io/badge/YouTube-Naze -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@rizxddev" /><br>
+  <a href="https://youtube.com/c/rizxddev"><img src="https://img.shields.io/badge/YouTube-RizxMods -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@rizxddev" /><br>
   <a href="https://github.com/rizxddev"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCl77jQD3nSFp__z1oRxm-fA"><img src="https://img.shields.io/youtube/channel/subscribers/UCl77jQD3nSFp__z1oRxm-fA?style=social" /> <br>
   <a name=rizxddev&label=VIEWS&style=flat-square&color=orange" />
