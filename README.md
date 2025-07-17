@@ -26,7 +26,7 @@
   <a href="https://t.me/rizxddev"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://youtube.com/c/rizxddev"><img src="https://img.shields.io/badge/YouTube-RizxMods -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@rizxddev" /><br>
   <a href="https://github.com/rizxddev"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCl77jQD3nSFp__z1oRxm-fA"><img src="https://img.shields.io/youtube/channel/subscribers/UCl77jQD3nSFp__z1oRxm-fA?style=social" /> <br>
+  <a href="https://youtube.com/channel/1N-BVt-qRwag3Xmw"><img src="https://img.shields.io/youtube/channel/subscribers/1N-BVt-qRwag3Xmw?style=social" /> <br>
   <a name=rizxddev&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
