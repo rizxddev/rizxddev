@@ -31,7 +31,7 @@ Saya adalah seorang pengembang yang senang membangun solusi digital yang efisien
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rizxddev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizxddev&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rizxddev&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
